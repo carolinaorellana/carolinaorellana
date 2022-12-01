@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @carolinaorellana 
-- I am an Integral Designer at Pontifical Universidad Católica de Chile, 
-I am certified as a UX/UI Designer at Desafío Latam and as a Full Stack Developer in Python at Coding Dojo.
+- I am an Integral Designer at Pontifical Universidad Católica de Chile, I am certified as a UX/UI Designer at Desafío Latam and as a Full Stack Developer on Python at Coding Dojo.
 - 👀 I’m interested in Front-End and Back-End Web Deployment
 - 🌱 I'm currently studying Certified Tech Developer career at Digital House
 - 💞️ At the present I am working as a UX UI Designer at Dalt Applications
